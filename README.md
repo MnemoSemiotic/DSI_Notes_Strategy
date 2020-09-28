@@ -16,6 +16,10 @@ In standard Markdown, place an anchor <a name="markdown"></a> where you want to 
 
 ## Images
 
+```
+![Stir the pile](https://imgs.xkcd.com/comics/machine_learning.png)
+```
+
 ![Stir the pile](https://imgs.xkcd.com/comics/machine_learning.png)
 ------------------------------
 # Bash Scripting
@@ -85,3 +89,7 @@ def factorial(n):
 
 # `matplotlib.pyplot` visualizations
 
+
+----------------------------
+# Derivations
+* [Derivation of a Perceptron]()
