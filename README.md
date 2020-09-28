@@ -92,4 +92,4 @@ def factorial(n):
 
 ----------------------------
 # Derivations
-* [Derivation of a Perceptron]()
+* [Derivation of a Perceptron](https://github.com/clownfragment/delme_Master_DSI_Notes/blob/master/notebooks/derivation_of_a_perceptron.ipynb)
