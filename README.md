@@ -13,6 +13,10 @@
 ## Anchors / internal reference links
 In standard Markdown, place an anchor <a name="markdown"></a> where you want to link to and refer to it on the same page by [link text](#abcd).
 
+
+## Images
+
+![Stir the pile](https://imgs.xkcd.com/comics/machine_learning.png)
 ------------------------------
 # Bash Scripting
 * bash profile location on OSX: `~./bash_profile`
@@ -76,3 +80,8 @@ def factorial(n):
 ```python
 # library-called bubble sort
 ```
+
+----------------------------
+
+# `matplotlib.pyplot` visualizations
+
