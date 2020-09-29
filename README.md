@@ -1,3 +1,5 @@
+## [YouTube Vid walking through this](https://youtu.be/W5kZjp2uh8M?t=4722)
+
 ##### Rationale: 
 * This repo involves a simple approach to notetaking for the Data Science Immersive at Galvanize.
 * The contents are stubs and examples and there is no intent to make this more complete.
