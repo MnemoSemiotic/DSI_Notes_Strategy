@@ -1,4 +1,4 @@
-# DSI Notes
+# DSI Notes Template
 * [Markdown](#markdown)
 
 
@@ -21,9 +21,14 @@ In standard Markdown, place an anchor <a name="markdown"></a> where you want to 
 ```
 
 ![Stir the pile](https://imgs.xkcd.com/comics/machine_learning.png)
+
+
 ------------------------------
 # Bash Scripting
 * bash profile location on OSX: `~./bash_profile`
+
+## Basic Commands
+* recursively delete a directory: `rm -rf <directoryname>`
 
 ### make a bash function
 
@@ -31,7 +36,6 @@ In standard Markdown, place an anchor <a name="markdown"></a> where you want to 
 function gitadder() {
     git pull
     git add .
-    dt=$(date '+%d/%m/%Y %H:%M:%S');
     git commit -m "Auto Updated: $(date '+%a %M:%H %h %d %Y')"
     git push    
 }
@@ -93,3 +97,11 @@ def factorial(n):
 ----------------------------
 # Derivations
 * [Derivation of a Perceptron](https://github.com/clownfragment/delme_Master_DSI_Notes/blob/master/notebooks/derivation_of_a_perceptron.ipynb)
+
+-------------------------
+# LaTEX
+* won't render in GitHub, but will in VSCode
+
+$$
+\sum_{x=1}^{25} a_x
+$$
