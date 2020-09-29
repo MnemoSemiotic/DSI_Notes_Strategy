@@ -115,6 +115,7 @@ def factorial(n):
 ----------------------------
 # Derivations
 * [Derivation of a Perceptron](https://github.com/clownfragment/delme_Master_DSI_Notes/blob/master/notebooks/derivation_of_a_perceptron.ipynb)
+    * consider linking out a jupyter notebook for notebooks with derivations in LaTEX. Can also follow the github render paradigm noted below
 
 -------------------------
 # LaTEX
@@ -130,14 +131,18 @@ $$
 
 ------------------------
 # Screenshotting
+* is wildly helpful
+* in most cases, I recommend translating an image into markdown/code/LaTEX at some point to keep this document searchable
+
+## Ubuntu has its native screenshot app
+* as well as Flameshot for taking screen snips with annotations.
 
 ## Snappy app (Mac)
 * easily screenshot regions of your screen, write on them, save, etc
 
 ![snappy example](images/snappy_example.png)
 
-## Ubuntu has its native screenshot app
-* as well as Flameshot for taking screen snips with annotations.
+
 
 
 
