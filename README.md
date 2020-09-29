@@ -105,3 +105,19 @@ def factorial(n):
 $$
 \sum_{x=1}^{25} a_x
 $$
+
+------------------------
+# Screenshotting
+
+## Snappy app (Mac)
+* easily screenshot regions of your screen, write on them, save, etc
+
+![snappy example](images/snappy_example.png)
+
+## Ubuntu has its native screenshot app
+* as well as Flameshot for taking screen snips with annotations.
+
+
+
+
+
