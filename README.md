@@ -107,11 +107,15 @@ def factorial(n):
 
 -------------------------
 # LaTEX
-* won't render in GitHub, but will in VSCode
+* needs special syntax to render in GitHub, but will in VSCode preview:
 
 $$
 \sum_{x=1}^{25} a_x
 $$
+
+**Render LaTEX in GitHub**
+
+![](images/render_latex_gh.png)
 
 ------------------------
 # Screenshotting
