@@ -1,5 +1,12 @@
-# DSI Notes Template
-* [Markdown](#markdown)
+##### Rationale: 
+* This repo involves a simple approach to notetaking for the Data Science Immersive at Galvanize.
+* The contents are stubs and examples and there is no intent to make this more complete.
+* a single 
+
+----------------------
+
+# DSI Notes Topics
+* [Markdown](#markdown) <-- this is an example of an internal reference link
 
 
 # Relevant Links
