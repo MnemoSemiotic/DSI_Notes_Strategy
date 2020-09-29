@@ -2,12 +2,17 @@
 * This repo involves a simple approach to notetaking for the Data Science Immersive at Galvanize.
 * The contents are stubs and examples and there is no intent to make this more complete.
 * A single markdown file is very searchable with CMD + F or CTRL + F
+    * the document can be a bit of a mess, and that's ok, you can still search it
 * If you need to, you can edit directly on GitHub
+* Could also make the notes chronological, if preferred
+
 
 ----------------------
 
+
 # DSI Notes Topics
 * [Markdown](#markdown) <-- this is an example of an internal reference link
+
 
 ----------------------
 
