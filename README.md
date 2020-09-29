@@ -137,6 +137,9 @@ $$
 ## Ubuntu has its native screenshot app
 * as well as Flameshot for taking screen snips with annotations.
 
+## Mac has built-in screenshotting utilities
+* [Marking up screenshots on Mac](https://support.apple.com/guide/mac-help/mark-up-files-mchl1fd88863/10.15/mac/10.15)
+
 ## Snappy app (Mac)
 * easily screenshot regions of your screen, write on them, save, etc
 
