@@ -47,7 +47,8 @@ In standard Markdown, place an anchor <a name="markdown"></a> where you want to 
 ## Basic Commands
 * recursively delete a directory: `rm -rf <directoryname>`
 
-### make a bash function
+## Make a bash function
+* can define in `~./bash_profile` or another file
 
 ```bash
 function gitadder() {
