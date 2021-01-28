@@ -1,4 +1,4 @@
-## [YouTube Vid walking through this](https://youtu.be/W5kZjp2uh8M?t=4722)
+## [YouTube Vid walking through this](https://youtu.be/xdz1KyKVI5M)
 
 ##### Rationale: 
 * This repo involves a simple approach to notetaking for the Data Science Immersive at Galvanize.
@@ -22,7 +22,7 @@
 # Relevant Links
 * [Visualizing `scipy.stats` distributions](https://stackoverflow.com/questions/37559470/what-do-all-the-distributions-available-in-scipy-stats-look-like)
 * [MathJax basic tutorial and quick reference](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
-
+   * [Chrome plugin to see MathJax rendered on GitHub](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima)
 
 ------------------------------
 # <a name="markdown">Markdown</a>
